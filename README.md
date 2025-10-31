@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Manikanta1506
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Manikanta1506/Manikanta1506 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Manikanta — a DevOps Engineer and Python Full-Stack Developer.
+🚀 Passionate DevOps Engineer & Python Full Stack Developer with a strong focus on automation, scalability, and clean code.
+🔧 Skilled in CI/CD, Cloud Infrastructure (AWS, Azure, GCP), Docker, Kubernetes, Jenkins, and modern DevOps tools.
+🌐 Experienced in Web Development using Python, Django, Flask, HTML, CSS, JavaScript, and React.
+⚙️ Love integrating development and operations to deliver reliable and efficient software systems.
+📚 Always learning new technologies and contributing to open-source projects.
+🤝 Open to collaborations on DevOps, Cloud, and Full Stack projects.
